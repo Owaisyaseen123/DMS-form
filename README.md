@@ -6,7 +6,7 @@ A simple C++ console application for managing student records. This system allow
 
 ## 📜 Description
 
-This project demonstrates basic C++ concepts including:
+This project demonstrates basic C++ concepts includings:
 * **Classes and Objects**: `DataSystem` (base class) and `SearchSystem` (derived class) are used to encapsulate data and functionality.
 * **Inheritance**: `SearchSystem` inherits from `DataSystem` to reuse and extend its features.
 * **Arrays**: Used to store student roll numbers and names.
