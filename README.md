@@ -43,7 +43,7 @@ This project demonstrates basic C++ concepts including:
 
 ### Execution
 
-1.  After successful compilation, run the executable:
+1.  After successful compilation, run the executeable:
     * On Windows:
         ```bash
         DMS.exe
